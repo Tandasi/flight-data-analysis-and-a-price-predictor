@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS files
+.DS_Store
+
+# Python logs and databases
+*.log
+*.sqlite3
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
